@@ -1,5 +1,6 @@
 # Scraping HTML with Beautiful Soup
-
+python -m venv venv\  (enters my virtual env in this project)
+python -m pip install beautifulsoup4 (make sure you are in the venv)
 ## Learning Goals
 
 - Introduce web scraping and its uses.
